@@ -31,7 +31,7 @@ https://drive.google.com/file/d/1fV1i3o1wzGXP0YkevquGIqSHAJEjC9YI/view?usp=shari
 
 ## Результат
 Файл ноутбук проекта вы можите скачать здесь:
-https://drive.google.com/file/d/1fV1i3o1wzGXP0YkevquGIqSHAJEjC9YI/view?usp=sharing
+https://drive.google.com/file/d/1UvLWEnUrsy8GR9X5s9wr7j2sv4T7O7xl/view?usp=sharing
 
 В папке graphs находятся изображения графиков проекта
 
