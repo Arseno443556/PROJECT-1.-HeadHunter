@@ -27,11 +27,13 @@
 В вашем распоряжении будет база резюме, выгруженная с сайта поиска вакансий hh.ru.
 
 Файл с исходными данными вы можете скачать здесь.
+
 https://drive.google.com/file/d/1fV1i3o1wzGXP0YkevquGIqSHAJEjC9YI/view?usp=sharing
 
 ## Результат
 Файл ноутбук проекта вы можите скачать здесь:
-https://drive.google.com/file/d/1UvLWEnUrsy8GR9X5s9wr7j2sv4T7O7xl/view?usp=sharing
+
+https://drive.google.com/file/d/1IxPl36v_jAX1TPx6xXGnwgI_C66WXHU3/view?usp=sharing
 
 В папке graphs находятся изображения графиков проекта
 
